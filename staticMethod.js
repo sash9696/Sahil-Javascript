@@ -1,0 +1,8 @@
+class Test  
+{  
+  static display()  
+  {  
+    return "static method is invoked"  
+  }  
+}  
+document.writeln(Test.display());  
